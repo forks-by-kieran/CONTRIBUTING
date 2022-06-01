@@ -48,4 +48,4 @@ Changes can be made in many different ways in many different ways
 ### What happens next?
 The GitHub Organisation Managers will look into your commit and may suggest changes. If changes do need to be made, do not make a new pull request, instead just commit to your repo and the new changes will appear.
 
-If no changes need to be made, then your commits will be made!
+If no changes need to be made, then your commits will be merged!
