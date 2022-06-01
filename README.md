@@ -9,11 +9,6 @@ Thank you for contributing to the HullCSS organisation, here are some guidelines
 4. Any security vulnerabilities must not be discussed in Issues or PRs, please send an email to <hullcss@hull.ac.uk> or contact the current Webmaster via email at crimsontome427@protonmail.com or Discord via CrimsonTome427#7459
 
 # How to contribute to the Society Github Organisation
-Generally each repo should have a contributing guidelines file however if they dont, some general guidelines can be:
-* One pull request for each change
-* Follow the layout of the exsisting code
-* Make an issue for any large changes
-
 ## Forking
 * Find the repo you'd like to contribute to.
 * Press the fork icon in the top right hand corner.
