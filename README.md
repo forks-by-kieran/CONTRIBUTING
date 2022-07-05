@@ -6,7 +6,7 @@ Thank you for contributing to the HullCSS organisation, here are some guidelines
 	- make sure you have GitHub 2FA
 	- make a new branch for your commits before merging into main, or still please use PRs
 	- If possible also gpg sign your commits
-4. Any security vulnerabilities must not be discussed in Issues or PRs, please send an email to <hullcss@hull.ac.uk> or contact the current Webmaster via email at crimsontome427@protonmail.com or Discord via CrimsonTome427#7459
+4. Please see our [Security Policy](/SECURITY.md) for detais of what to do if you find any issues  
 
 # How to contribute to the Society Github Organisation
 ## Forking
