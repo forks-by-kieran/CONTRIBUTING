@@ -4,7 +4,7 @@ Thank you for contributing to the HullCSS organisation, here are some guidelines
 2. Any large changes must be discussed in an Issue first
 3. If you have owner rights over a repository
 	- make sure you have GitHub 2FA
-	- make a new branch for your commits before merging into main, or still please use PRs
+	- make a new branch for your commits before merging into main, or still please use PRs (unless you are the primary maintainer)
 	- If possible also gpg sign your commits
 4. Please see our [Security Policy](/SECURITY.md) for detais of what to do if you find any issues  
 
